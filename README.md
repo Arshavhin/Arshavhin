@@ -10,13 +10,6 @@
   <strong>IA & Game Developer en formación, creando mundos digitales y desafiando los límites de la realidad.</strong>
 </p>
 
-## ¿Por qué mi portfolio es un campo de batalla?
-
-Como puedes ver en mi banner, mi vida es un combate constante entre la lógica de la programación y la creatividad desbordante. Jinx representa la locura creativa y Amon la precisión técnica, mientras que Aurelion Sol, el creador de estrellas, me recuerda que las posibilidades son infinitas si combinamos ambas fuerzas.
-
-## ¿Qué estoy construyendo?
-
-Actualmente, estoy inmerso en la creación de un videojuego que fusiona mecánicas de combate con un sistema de IA avanzado, donde cada acción tiene consecuencias y los personajes aprenden y se adaptan a tu estilo de juego. ¡Prepárate para una experiencia única!
 
 ## Habilidades y Tecnologías
 
