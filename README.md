@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://github.com/Arshavhin/Arshavhin/blob/main/Arsha.png" alt="Arsha Portfolio Banner" width="100%">
 </p>
