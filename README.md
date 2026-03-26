@@ -20,4 +20,3 @@
   <img src="https://img.shields.io/badge/Game_Development-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development Badge">
 </p>
 
-**¡Arsha, IA & Game Developer, te da la bienvenida al campo de batalla del desarrollo!**
