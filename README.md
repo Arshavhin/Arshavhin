@@ -1,1 +1,35 @@
-![Banner de Arsha](Arsha.jpg)
+# ¡Hola, soy Arsha! 👋
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arsha/arsha/main/arsha.png" alt="Arsha Portfolio Banner" width="100%">
+</p>
+
+## Sobre mí
+
+<p align="center">
+  <strong>IA & Game Developer en formación, creando mundos digitales y desafiando los límites de la realidad.</strong>
+</p>
+
+## ¿Por qué mi portfolio es un campo de batalla?
+
+Como puedes ver en mi banner, mi vida es un combate constante entre la lógica de la programación y la creatividad desbordante. Jinx representa la locura creativa y Amon la precisión técnica, mientras que Aurelion Sol, el creador de estrellas, me recuerda que las posibilidades son infinitas si combinamos ambas fuerzas.
+
+## ¿Qué estoy construyendo?
+
+Actualmente, estoy inmerso en la creación de un videojuego que fusiona mecánicas de combate con un sistema de IA avanzado, donde cada acción tiene consecuencias y los personajes aprenden y se adaptan a tu estilo de juego. ¡Prepárate para una experiencia única!
+
+## Habilidades y Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/IA-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="IA Badge">
+  <img src="https://img.shields.io/badge/Game_Development-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development Badge">
+</p>
+
+## ¡Ven a jugar!
+
+Te invito a explorar mis repositorios, probar mis juegos y compartir tus ideas. ¡Juntos podemos crear cosas increíbles!
+
+**¡Arsha, IA & Game Developer, te da la bienvenida al campo de batalla del desarrollo!**
