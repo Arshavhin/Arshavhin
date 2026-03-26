@@ -1,14 +1,9 @@
-# ¡Hola, soy Arsha! 👋
+
 
 <p align="center">
   <img src="https://github.com/Arshavhin/Arshavhin/blob/main/Arsha.png" alt="Arsha Portfolio Banner" width="100%">
 </p>
-
-## Sobre mí
-
-<p align="center">
-  <strong>IA & Game Developer en formación, creando mundos digitales y desafiando los límites de la realidad.</strong>
-</p>
+>
 
 ## Habilidades y Tecnologías
 
