@@ -1,7 +1,7 @@
 # ¡Hola, soy Arsha! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arsha/arsha/main/arsha_portfolio_banner.png" alt="Arsha Portfolio Banner" width="100%">
+  <img src="https://github.com/Arshavhin/Arshavhin/blob/main/Arsha%20(2).png" alt="Arsha Portfolio Banner" width="100%">
 </p>
 
 ## Sobre mí
