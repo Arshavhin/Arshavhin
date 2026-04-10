@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Industrial Graphic Designer | Game Dev Enthusiast**
 
-Arquitecto de software y diseñador gráfico operando desde Encarnación. Mi enfoque está en la intersección exacta entre el diseño de alta fidelidad (producción gráfica a 300 DPI / 8K) y la ingeniería de software de grado industrial. Transformo flujos de trabajo físicos complejos en interfaces tácticas y motores automatizados.
+Diseñador gráfico operando desde Encarnación. Mi enfoque está en la intersección exacta entre el diseño de alta fidelidad y la ingeniería de software de grado industrial. Transformo flujos de trabajo físicos complejos en interfaces tácticas y motores automatizados.
 
 ### 🚀 Operaciones Actuales
 * ⚙️ **Quazar Enterprise:** Desarrollando *Quazar Matrix*, un motor ERP con visión artificial y cotización dinámica para centros de impresión de alta demanda.
