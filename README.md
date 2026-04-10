@@ -23,11 +23,6 @@ Arquitecto de software y diseñador gráfico operando desde Encarnación. Mi enf
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 📊 Telemetría de Código
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshavhin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060e20" alt="Estadísticas" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshavhin&layout=compact&theme=tokyonight&hide_border=true&bg_color=060e20" alt="Lenguajes" width="48%">
-</div>
 
 ---
 <div align="center">
